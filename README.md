@@ -22,7 +22,7 @@ Antes de começar, certifique-se de ter os seguintes itens instalados e configur
 
 - [Terraform](https://www.terraform.io/downloads.html)
 - [TF-Switch](https://tfswitch.warrensbox.com/Installation/) [Opcional]
-- [IDE-VSCode]([https://tfswitch.warrensbox.com/Installation/](https://code.visualstudio.com/download) [Sugestão]
+- [IDE-VSCode](https://tfswitch.warrensbox.com/Installation/](https://code.visualstudio.com/download) [Sugestão]
 - Conta na AWS.
 
 ## Instalação
