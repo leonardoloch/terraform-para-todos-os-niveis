@@ -21,7 +21,9 @@ Neste curso, você aprenderá a usar o Terraform, uma ferramenta de IaC (Infraes
 Antes de começar, certifique-se de ter os seguintes itens instalados e configurados:
 
 - [Terraform](https://www.terraform.io/downloads.html)
-- Conta em uma plataforma de nuvem (AWS, Azure, Google Cloud, etc.)
+- [TF Switch]:(https://tfswitch.warrensbox.com/Installation/) [Opcional]
+- [IDE - VS Code]:([https://tfswitch.warrensbox.com/Installation/](https://code.visualstudio.com/download)) [Sugestão]
+- Conta na AWS.
 
 ## Instalação
 
