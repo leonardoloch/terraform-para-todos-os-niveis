@@ -25,6 +25,9 @@ Antes de começar, certifique-se de ter os seguintes itens instalados e configur
 - [IDE-VSCode](https://code.visualstudio.com/download) [Sugestão]
 - [Conta na AWS](https://aws.amazon.com/free).
 
+
+*Pessoal, atenção com a conta da AWS: mesmo que ofereça uma camada gratuita, ela possui certos limites. O conteúdo que será abordado estará dentro desses limites, mas é importante ficarem atentos aos possíveis gastos.*
+
 ## Instalação
 
 1. Clone este repositório para o seu ambiente local:
