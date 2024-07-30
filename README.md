@@ -51,8 +51,6 @@ O curso está organizado da seguinte forma:
 
 Cada pasta contém exemplos de código, scripts e exercícios práticos para ajudá-lo a entender os conceitos abordados.
 
-Para cada novo modulo reutilize o `terraform state` passado, sendo assim copie o arquivo `terraform.tfstate` para o proximo modulo que estas trabalhando
-
 ## Recursos Adicionais
 
 - [Documentação Oficial do Terraform](https://www.terraform.io/docs)
